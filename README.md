@@ -6,15 +6,15 @@ A Bash-based diagnostic command-line application packaged and run using Docker.
 
 ```text
 assignment-2/
-├── README.md
+├── .dockerignore
 ├── app/
 │   ├── diagnostic.sh
 │   └── health-check.sh
 ├── Dockerfile
+├── README.md
 ├── compose.yaml
-├── .dockerignore
-├── test.sh
-└── grade.sh
+├── grade.sh
+└── test.sh
 ```
 
 ## Requirements

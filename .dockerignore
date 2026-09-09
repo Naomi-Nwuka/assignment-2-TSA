@@ -1,0 +1,7 @@
+.git
+.gitignore
+logs
+*.log
+*.tmp
+*.swp
+README.md
